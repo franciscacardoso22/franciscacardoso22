@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**franciscacardoso22/franciscacardoso22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Francisca Cardoso
 
-Here are some ideas to get you started:
+**BSc in Computer Science at Uminho**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About me
+
+
+
+## University Projects
+
+A collection of academic projects, assignments, and practical coursework developed throughout my B.Sc. in Computer Science at Universidade do Minho. [university-coursework](https://github.com/franciscacardoso22/university-coursework)
+
