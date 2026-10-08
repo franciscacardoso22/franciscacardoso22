@@ -8,7 +8,7 @@
 
 ## About me
 
-3rd-year student at **Universidade do Minho**.Continuously expanding my technical skills and working on university and personal projects.
+3rd-year student at **Universidade do Minho**. Continuously expanding my technical skills and working on university and personal projects.
 
 ## University Projects
 
